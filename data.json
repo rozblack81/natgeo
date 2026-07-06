@@ -36,7 +36,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -82,7 +82,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": true,
-      "인증 진행": true,
+      "인증 진행": "na",
       "샘플 승인": true,
       "웹DB 완료": false,
       "발주": false,
@@ -91,7 +91,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정 (7/9 출고예정)",
+    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정",
     "risk": "* 1차 업체 퀄리티 이슈로 일정 지연",
     "brand": "Nat Geo"
   },
@@ -128,7 +128,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": true,
-      "인증 진행": true,
+      "인증 진행": "na",
       "샘플 승인": true,
       "웹DB 완료": false,
       "발주": false,
@@ -137,7 +137,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정 (7/9 출고예정)",
+    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정",
     "risk": "* 1차 업체 퀄리티 이슈로 일정 지연",
     "brand": "Nat Geo"
   },
@@ -147,7 +147,7 @@
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/neckpillow.jpg",
     "price": "",
-    "launchDate": "2026.10 예상",
+    "launchDate": "2026.09 예상",
     "stage": "sample",
     "history": [
       {
@@ -166,7 +166,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -185,7 +185,7 @@
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/neckpillow_flex.jpg",
     "price": "",
-    "launchDate": "2026.10 예상",
+    "launchDate": "2026.09 예상",
     "stage": "sample",
     "history": [
       {
@@ -204,7 +204,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -238,7 +238,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -266,13 +266,13 @@
       },
       {
         "date": "2026-05-27",
-        "note": "1차 샘플완료 (5/27 요청)"
+        "note": "1차 샘플요청"
       }
     ],
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -281,7 +281,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 패키지 샘플요청 (7/6)",
+    "status": "* 패키지 샘플요청(7/6)",
     "risk": "",
     "brand": "Nat Geo"
   },
@@ -306,7 +306,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -340,7 +340,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -374,7 +374,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -412,7 +412,7 @@
     "checklist": {
       "디자인 승인": true,
       "견적 완료": false,
-      "인증 진행": false,
+      "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
       "발주": false,
@@ -461,7 +461,7 @@
   },
   {
     "id": "p_mr8iap1iyh3z82",
-    "name": "Nat Geo 무선이어버드 Dial",
+    "name": "Nat Geo 무선이어버드 다이얼",
     "brand": "Nat Geo",
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/earbuds_dial.jpg",
@@ -642,8 +642,8 @@
     "checklist": {
       "디자인 승인": false,
       "견적 완료": false,
-      "인증 진행": false,
-      "샘플 승인": false,
+      "인증 진행": "na",
+      "샘플 승인": "na",
       "웹DB 완료": false,
       "발주": false,
       "패키지 발주": false,
@@ -651,7 +651,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 상품이미지, 상세페이지 이미지 수신(7/6)",
+    "status": "* 상품이미지, 상세페이지 이미지 요청",
     "risk": ""
   },
   {
@@ -665,10 +665,10 @@
     "stage": "dev",
     "history": [],
     "checklist": {
-      "디자인 승인": true,
+      "디자인 승인": false,
       "견적 완료": false,
-      "인증 진행": false,
-      "샘플 승인": false,
+      "인증 진행": "na",
+      "샘플 승인": "na",
       "웹DB 완료": false,
       "발주": false,
       "패키지 발주": false,
@@ -676,7 +676,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   },
   {
@@ -690,10 +690,10 @@
     "stage": "dev",
     "history": [],
     "checklist": {
-      "디자인 승인": true,
+      "디자인 승인": false,
       "견적 완료": false,
-      "인증 진행": false,
-      "샘플 승인": false,
+      "인증 진행": "na",
+      "샘플 승인": "na",
       "웹DB 완료": false,
       "발주": false,
       "패키지 발주": false,
@@ -701,7 +701,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   },
   {
@@ -715,78 +715,10 @@
     "stage": "dev",
     "history": [],
     "checklist": {
-      "디자인 승인": true,
-      "견적 완료": false,
-      "인증 진행": false,
-      "샘플 승인": false,
-      "웹DB 완료": false,
-      "발주": false,
-      "패키지 발주": false,
-      "생산": false,
-      "입고": false,
-      "출시": false
-    },
-    "status": "",
-    "risk": ""
-  },
-  {
-    "id": "p_mr8pwpjdyfcxyi",
-    "name": "Nat Geo 모터싸이클 마운트",
-    "brand": "Nat Geo",
-    "channel": "대만향",
-    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/tw_motor_mount.jpg",
-    "price": "",
-    "launchDate": "",
-    "stage": "sample",
-    "history": [
-      {
-        "date": "2026-03-16",
-        "note": "프로젝트 시작"
-      },
-      {
-        "date": "2026-06-30",
-        "note": "1차샘플 완료 (4/23 요청)"
-      }
-    ],
-    "checklist": {
-      "디자인 승인": true,
-      "견적 완료": true,
-      "인증 진행": false,
-      "샘플 승인": false,
-      "웹DB 완료": false,
-      "발주": false,
-      "패키지 발주": false,
-      "생산": false,
-      "입고": false,
-      "출시": false
-    },
-    "status": "* 2차 샘플 진행 및 샘플승인\n",
-    "risk": "* 실리콘 몰드 금형 진행 확정 대기로 일정 지연"
-  },
-  {
-    "id": "p_mr8q08j840mhcb",
-    "name": "Nat Geo 밀레니즈 루프 스트랩",
-    "brand": "Nat Geo",
-    "channel": "대만향",
-    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/tw_mile_strap.jpg",
-    "price": "",
-    "launchDate": "",
-    "stage": "sample",
-    "history": [
-      {
-        "date": "2026-05-15",
-        "note": "프로젝트 시작"
-      },
-      {
-        "date": "2026-06-04",
-        "note": "디자인샘플 요청"
-      }
-    ],
-    "checklist": {
       "디자인 승인": false,
       "견적 완료": false,
-      "인증 진행": false,
-      "샘플 승인": false,
+      "인증 진행": "na",
+      "샘플 승인": "na",
       "웹DB 완료": false,
       "발주": false,
       "패키지 발주": false,
@@ -794,7 +726,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 1차 샘플 검토 후 컨셉승인 진행",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   }
 ]
