@@ -1,1 +1,732 @@
-[]
+[
+  {
+    "id": "p_mr48akic5s7y56",
+    "name": "Nat Geo 유틸리티 이어버드 파우치",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/util_pouch.jpg",
+    "price": "",
+    "launchDate": "2026.08",
+    "stage": "sample",
+    "history": [
+      {
+        "month": "2026.01",
+        "note": "프로젝트 시작",
+        "date": "2026-01-20"
+      },
+      {
+        "month": "2026.04",
+        "note": "1차업체 샘플 요청(4/27)",
+        "date": "2026-04-27"
+      },
+      {
+        "month": "2026.05",
+        "note": "1차업체 샘플 완료(23일 소요), 퀄리티 미흡",
+        "date": "2026-05-27"
+      },
+      {
+        "month": "2026.06",
+        "note": "2차업체 샘플요청 (6/2)",
+        "date": "2026-06-02"
+      },
+      {
+        "date": "2026-07-03",
+        "note": "샘플품평 - 진행컬러 3종 확정"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false,
+      "패키지 발주": false
+    },
+    "risk": "1차 업체 샘플 퀄리티 이슈로 프로젝트 지연",
+    "status": "* 샘플 승인 및 상품/패키지 발주\n* 업체 가능 원단에 따라 최종 디자인에서 색상 변경 있음",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr4f898ff73wdm",
+    "name": "Nat Geo 무릎보호대",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/run_patella_single.jpg",
+    "price": "34,000원",
+    "launchDate": "2026.08 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-02-06",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-04-21",
+        "note": "1차 샘플완료 (3/24요청) - 1차 업체"
+      },
+      {
+        "date": "2026-05-07",
+        "note": "2차 샘플완료 (4/21요청) - 2차 업체"
+      },
+      {
+        "date": "2026-07-02",
+        "note": "패키지 샘플요청"
+      },
+      {
+        "date": "2026-04-17",
+        "note": "오프 입점제안 디스플레이 업체 미팅 완료"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": true,
+      "인증 진행": true,
+      "샘플 승인": true,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정",
+    "risk": "* 1차 업체 퀄리티 이슈로 일정 지연",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr4fn82f5p0v3t",
+    "name": "Nat Geo 무릎보호대 듀얼",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/run_patella_dual.jpg",
+    "price": "36,000원",
+    "launchDate": "2026.08 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-02-06",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-04-17",
+        "note": "오프 입점제안 디스플레이 업체 미팅"
+      },
+      {
+        "date": "2026-04-21",
+        "note": "1차 샘플완료 (3/24요청) - 1차 업체"
+      },
+      {
+        "date": "2026-05-07",
+        "note": "2차 샘플완료 (4/21요청) - 2차 업체"
+      },
+      {
+        "date": "2026-07-02",
+        "note": "패키지 샘플요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": true,
+      "인증 진행": true,
+      "샘플 승인": true,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 케어라벨 적용된 최종 샘플제작중 -> 확인 후 양산 예정",
+    "risk": "* 1차 업체 퀄리티 이슈로 일정 지연",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr4m4ai2blbqvj",
+    "name": "Nat Geo 에센셜 트래블 목베개",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/neckpillow.jpg",
+    "price": "",
+    "launchDate": "2026.09 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-03-27",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-25",
+        "note": "1차 샘플완료 (5/27요청), 개선 필요"
+      },
+      {
+        "date": "2026-06-30",
+        "note": "업체 확인요청 - 2차 샘플전 제조사 기술 및 샘플 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 자수 로고 대체를 위한 3D로고, 실크인쇄, 실리콘 로고 샘플 확인 후 디자인 개선하여 2차 샘플 예정",
+    "risk": "* 1차 샘플 퀄리티 미흡",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr4pacwi3ateih",
+    "name": "Nat Geo 트래블 목베개 플렉스",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/neckpillow_flex.jpg",
+    "price": "",
+    "launchDate": "2026.09 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-03-27",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-25",
+        "note": "1차 샘플 완료(5/27요청), 개선 필요"
+      },
+      {
+        "date": "2026-06-30",
+        "note": "제조사 확인요청 - 2차 샘플을 위한 기술 및 샘플 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 자수로고 대체를 위한 3D 로고, 실크인쇄, 실리콘 로고 샘플 확인 후 디자인 개선하여 2차 샘플 예정",
+    "risk": "샘플 퀄리티 미흡",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8gjtoryj81k6",
+    "name": "Nat Geo 컴팩트 에어 목베개",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/compact_air.jpg",
+    "price": "",
+    "launchDate": "2026.10 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-03-27",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-25",
+        "note": "1차 샘플완료 (5/27 요청)"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 자수로고 대체를 위한 3D 로고, 실크인쇄, 실리콘 로고 샘플 확인 후 디자인 개선하여 2차 샘플 예정",
+    "risk": "샘플 퀄리티 미흡",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8gqwzav2y509",
+    "name": "Nat Geo 목베개 스트랩 세트",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/neckpillow_strapset.jpg",
+    "price": "",
+    "launchDate": "2026.10 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-03-27",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-05-27",
+        "note": "1차 샘플요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
+    "risk": "",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8gt8zr6bihzz",
+    "name": "Nat Geo 에센셜 트래블 담요",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/essen_blacket.jpg",
+    "price": "",
+    "launchDate": "2026.10 예상",
+    "stage": "dev",
+    "history": [
+      {
+        "date": "2026-04-28",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-15",
+        "note": "컨셉재승인 완료"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 샘플진행 예정 - 샘플 진행전 확인 사항 수신 (7/3)",
+    "risk": "",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8gwjptd36fze",
+    "name": "Nat Geo 그래픽 트래블 담요",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/graphic_travel_blanket.jpg",
+    "price": "",
+    "launchDate": "2026.10 예상",
+    "stage": "dev",
+    "history": [
+      {
+        "date": "2026-04-28",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-07-02",
+        "note": "컨셉 재승인 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 스타일 가이드 내의 아트웍으로 4종 추가 승인 진행중",
+    "risk": "* 컨셉승인 단계 미승인 (사유: 창작그래픽 적용)",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8h0vj6y7ureu",
+    "name": "Nat Geo 2 in 1 트래블 담요",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/2in1_travel_blanket.jpg",
+    "price": "",
+    "launchDate": "2026.10 예상",
+    "stage": "dev",
+    "history": [
+      {
+        "date": "2026-04-28",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-15",
+        "note": "컨셉재승인 완료"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 샘플 진행 예정 - 샘플 진행전 확인 사항 수신(7/3)",
+    "risk": "",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8h3dx3c1gijq",
+    "name": "Nat Geo 모바일 크로스스트랩 5종",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/cross_strap.jpg",
+    "price": "",
+    "launchDate": "2026.09 예상",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-04-07",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-05-26",
+        "note": "컨셉승인 완료"
+      },
+      {
+        "date": "2026-07-03",
+        "note": "1차샘플 완료 (5/29 요청)"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 일부 수정사항으로 2차 샘플 진행\n",
+    "risk": "* 샘플 리드타임 25일",
+    "brand": "Nat Geo"
+  },
+  {
+    "id": "p_mr8i4cogi42yho",
+    "name": "Nat Geo 무선이어버드 GO",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/earbuds_go.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-06-10",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-18",
+        "note": "컨셉승인 완료"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": true,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 승인용 샘플 진행중",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8iap1iyh3z82",
+    "name": "Nat Geo 무선이어버드 다이얼",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/earbuds_dial.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-05-14",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-22",
+        "note": "1차 샘플 완료(5/20 요청)"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 컨셉승인 업무\n* 패키지 및 매뉴얼 작업",
+    "risk": "* 갤럭시 Z 시리즈 업무로 지연"
+  },
+  {
+    "id": "p_mr8ifjp3zebnz7",
+    "name": "Nat Geo 무선이어버드 Fit",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/earbuds_fit.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "planning",
+    "history": [
+      {
+        "date": "2026-06-16",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-25",
+        "note": "디자인 공유"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 샘플링 및 컨셉승인 준비",
+    "risk": "* 갤럭시Z 시리즈 업무로 지연"
+  },
+  {
+    "id": "p_mr8ij8rb9gbpmb",
+    "name": "Nat Geo 블루투스 스피커 Pocket",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/bt_speaker_pocket.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-06-08",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-07-01",
+        "note": "디자인샘플 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 디자인 샘플 확인 및 컨셉승인\n* KC 관련 사항 체크",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8ik54egov8ow",
+    "name": "Nat Geo 아웃도어 유틸리티 스피커",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/bt_radio_speaker.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-07-01",
+        "note": "1차 샘플 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 패키지/매뉴얼 디자인, 컨셉승인 업무\n* KC인증 관련 사항 체크\n* 7/20 샘플 완료예상",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8ioflujpex5i",
+    "name": "Nat Geo 블루투스 스피커 스퀘어",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/bt_speaker_square.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "dev",
+    "history": [
+      {
+        "date": "2026-06-08",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-18",
+        "note": "1차 디자인 공유"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 샘플 진행을 위한 확인사항 대기중",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8k4ljcdurcoi",
+    "name": "Smartti 마그네틱 링 홀더",
+    "brand": "smartti",
+    "channel": "자사향",
+    "image": "",
+    "price": "",
+    "launchDate": "",
+    "stage": "dev",
+    "history": [],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 상품이미지, 상세페이지 이미지 요청",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8k6ajysw5n39",
+    "name": "[몬스터옵틱스] 메탈 글라스",
+    "brand": "MonsterOptics",
+    "channel": "자사향",
+    "image": "",
+    "price": "",
+    "launchDate": "2026.08 예상",
+    "stage": "dev",
+    "history": [],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8k7icki0d12j",
+    "name": "[몬스터옵틱스] 몬스터 글라스",
+    "brand": "MonsterOptics",
+    "channel": "자사향",
+    "image": "",
+    "price": "",
+    "launchDate": "2026.08 예상",
+    "stage": "dev",
+    "history": [],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8k8h2fdie7df",
+    "name": "[몬스터옵틱스] 몬스터 글라스 올인원",
+    "brand": "MonsterOptics",
+    "channel": "자사향",
+    "image": "",
+    "price": "",
+    "launchDate": "2026.08 예상",
+    "stage": "planning",
+    "history": [],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
+    "risk": ""
+  }
+]
