@@ -501,7 +501,7 @@
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/earbuds_fit.jpg",
     "price": "",
     "launchDate": "",
-    "stage": "planning",
+    "stage": "dev",
     "history": [
       {
         "date": "2026-06-16",
@@ -727,6 +727,74 @@
       "출시": false
     },
     "status": "* 패키지 인쇄데이터 전달(7/6)",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8v4qsddfuwg7",
+    "name": "Nat Geo 모터싸이클 마운트",
+    "brand": "Nat Geo",
+    "channel": "대만향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/tw_motor_mount.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-03-16",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-30",
+        "note": "1차샘플 완료 (4/23 요청)"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": "done",
+      "견적 완료": false,
+      "인증 진행": "na",
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "* 2차 샘플요청 (6/30)",
+    "risk": ""
+  },
+  {
+    "id": "p_mr8v7zb2p3wk9b",
+    "name": "Nat Geo 밀레니즈 루프 스트랩",
+    "brand": "Nat Geo",
+    "channel": "대만향",
+    "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/tw_mile_strap.jpg",
+    "price": "",
+    "launchDate": "",
+    "stage": "sample",
+    "history": [
+      {
+        "date": "2026-05-15",
+        "note": "프로젝트 시작"
+      },
+      {
+        "date": "2026-06-04",
+        "note": "1차샘플 요청"
+      }
+    ],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": "na",
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
     "risk": ""
   }
 ]
