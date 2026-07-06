@@ -446,7 +446,7 @@
     ],
     "checklist": {
       "디자인 승인": true,
-      "견적 완료": false,
+      "견적 완료": "done",
       "인증 진행": false,
       "샘플 승인": false,
       "웹DB 완료": false,
@@ -480,7 +480,7 @@
     ],
     "checklist": {
       "디자인 승인": false,
-      "견적 완료": false,
+      "견적 완료": "done",
       "인증 진행": false,
       "샘플 승인": false,
       "웹DB 완료": false,
@@ -750,7 +750,7 @@
     ],
     "checklist": {
       "디자인 승인": "done",
-      "견적 완료": false,
+      "견적 완료": "done",
       "인증 진행": "na",
       "샘플 승인": false,
       "웹DB 완료": false,
