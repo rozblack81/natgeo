@@ -796,5 +796,30 @@
     },
     "status": "",
     "risk": ""
+  },
+  {
+    "id": "p_mr9vu17wqtoref",
+    "name": "test",
+    "brand": "Nat Geo",
+    "channel": "자사향",
+    "image": "",
+    "price": "",
+    "launchDate": "",
+    "stage": "planning",
+    "history": [],
+    "checklist": {
+      "디자인 승인": false,
+      "견적 완료": false,
+      "인증 진행": false,
+      "샘플 승인": false,
+      "웹DB 완료": false,
+      "발주": false,
+      "패키지 발주": false,
+      "생산": false,
+      "입고": false,
+      "출시": false
+    },
+    "status": "",
+    "risk": ""
   }
 ]
