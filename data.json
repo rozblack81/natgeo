@@ -31,10 +31,6 @@
       {
         "date": "2026-07-03",
         "note": "샘플품평 - 진행컬러 3종 확정"
-      },
-      {
-        "date": "2026-07-07",
-        "note": "3차 샘플 요청"
       }
     ],
     "checklist": {
@@ -50,7 +46,7 @@
       "패키지 발주": false
     },
     "risk": "1차 업체 샘플 퀄리티 이슈로 프로젝트 지연",
-    "status": "* 샘플 승인 및 상품/패키지 발주\n* 색상 확정 (블랙/슬레이트블루/올리브카키)\n* 이커머스 전용 색상 샘플 요청(7/7)",
+    "status": "* 샘플 승인 및 상품/패키지 발주\n* 업체 가능 원단에 따라 최종 디자인에서 색상 변경 있음\n* 이커머스 전용 데님컬러 샘플 예정(2차)",
     "brand": "Nat Geo"
   },
   {
@@ -271,10 +267,6 @@
       {
         "date": "2026-05-27",
         "note": "1차 샘플요청"
-      },
-      {
-        "date": "2026-07-06",
-        "note": "1차 샘플완료"
       }
     ],
     "checklist": {
@@ -415,6 +407,10 @@
       {
         "date": "2026-07-03",
         "note": "1차샘플 완료 (5/29 요청)"
+      },
+      {
+        "date": "2026-07-08",
+        "note": "2차샘플 요청"
       }
     ],
     "checklist": {
@@ -430,7 +426,7 @@
       "출시": false
     },
     "status": "* 일부 수정사항으로 2차 샘플 진행\n",
-    "risk": "* 샘플 리드타임 25일",
+    "risk": "* 1차 샘플 리드타임 25일",
     "brand": "Nat Geo"
   },
   {
@@ -464,7 +460,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 선금 지급후 샘플예정 - 대기중\n* 화이트 컬러 실버 마감 2종 테스트",
+    "status": "* 승인용 샘플 진행중",
     "risk": ""
   },
   {
@@ -566,7 +562,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 디자인 샘플 확인 및 컨셉승인\n* KC 관련 사항 체크 \n* 1차 샘플 7/24 완료 예상",
+    "status": "* 디자인 샘플 확인 및 컨셉승인\n* KC 관련 사항 체크",
     "risk": ""
   },
   {
@@ -669,7 +665,7 @@
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/mo_metal_glass.jpg",
     "price": "",
-    "launchDate": "2026.07 예상",
+    "launchDate": "2026.08 예상",
     "stage": "dev",
     "history": [],
     "checklist": {
@@ -684,7 +680,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 패키지 인쇄데이터 전달(7/6) \n* 패키지 사이즈 부적합 재선정 필요(7/8)\n",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   },
   {
@@ -694,7 +690,7 @@
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/mo_monsterglass.jpg",
     "price": "",
-    "launchDate": "2026.07 예상",
+    "launchDate": "2026.08 예상",
     "stage": "dev",
     "history": [],
     "checklist": {
@@ -709,7 +705,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 패키지 인쇄데이터 전달(7/6) \n* 패키지 사이즈 부적합 재선정 필요(7/8)",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   },
   {
@@ -719,7 +715,7 @@
     "channel": "자사향",
     "image": "https://raw.githubusercontent.com/rozblack81/natgeo/main/img/mo_monsterglass_all.jpg",
     "price": "",
-    "launchDate": "2026.07 예상",
+    "launchDate": "2026.08 예상",
     "stage": "dev",
     "history": [],
     "checklist": {
@@ -734,7 +730,7 @@
       "입고": false,
       "출시": false
     },
-    "status": "* 패키지 인쇄데이터 전달(7/6) \n* 패키지 사이즈 부적합 재선정 필요(7/8)",
+    "status": "* 패키지 인쇄데이터 전달(7/6)",
     "risk": ""
   },
   {
@@ -786,8 +782,8 @@
         "note": "프로젝트 시작"
       },
       {
-        "date": "2026-07-07",
-        "note": "1차 샘플 완료 (6/4요청)"
+        "date": "2026-06-04",
+        "note": "1차샘플 요청"
       }
     ],
     "checklist": {
@@ -803,6 +799,6 @@
       "출시": false
     },
     "status": "",
-    "risk": "* 1차 샘플 테스트 결과 사이즈 부적합"
+    "risk": ""
   }
 ]
