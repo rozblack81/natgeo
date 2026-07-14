@@ -675,8 +675,8 @@
     "stage": "dev",
     "history": [],
     "checklist": {
-      "디자인 승인": false,
-      "견적 완료": false,
+      "디자인 승인": "done",
+      "견적 완료": "done",
       "인증 진행": "na",
       "샘플 승인": "na",
       "웹DB 완료": false,
